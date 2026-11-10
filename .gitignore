@@ -1,0 +1,8 @@
+npm-debug.log*
+.next/
+.cache/
+build/
+node_modules/
+.env
+dist/
+dist/
